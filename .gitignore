@@ -40,5 +40,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-*.~lock*
-*.lock*
+# *.~lock*
+# *.lock*
